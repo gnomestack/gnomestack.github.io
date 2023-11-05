@@ -88,7 +88,7 @@ const config: Config = {
           items: [
             {
               label: 'Docs',
-              to: '/docs/index',
+              to: '/docs',
             },
           ],
         },

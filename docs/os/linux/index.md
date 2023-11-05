@@ -2,4 +2,4 @@
 title: Linux
 ---
 
-- [./ubuntu](Ubuntu)
+- [Ubuntu](./ubuntu/index.md)

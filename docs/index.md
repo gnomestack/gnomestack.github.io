@@ -5,6 +5,6 @@ title: Docs
 
 Docs
 
-- [stacks](./stacks/) - gnomestack software stacks. (deno and dotnet.)
-- [os](./os) - operating system specific documentation around tools and apis.
-- [apps](./apps/) - documentation for various applications and tools.
+- [stacks](./stacks/index.md) - gnomestack software stacks. (deno and dotnet.)
+- [os](./os/index.md) - operating system specific documentation around tools and apis.
+- [apps](./apps/index.md) - documentation for various applications and tools.
