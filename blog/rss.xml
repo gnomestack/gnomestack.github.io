@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Gnome Stack Blog</title>
+        <link>https://gnomestack.github.io/blog</link>
+        <description>Gnome Stack Blog</description>
+        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[welcome]]></title>
+            <link>https://gnomestack.github.io/blog/welcome</link>
+            <guid>https://gnomestack.github.io/blog/welcome</guid>
+            <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adventures in software development, automation, home labs, being a former]]></description>
+            <content:encoded><![CDATA[<p>Adventures in software development, automation, home labs, being a former
+start up employee, and other misadventures.</p>
+<p>I'm building gnomestack for .net and deno because they have underrated potential
+for general automation and to speed up application development.</p>
+<p>Join me for more misadventures.</p>
+<p>Part of gnomestack will be used to build out gnomelabs (homelabs).</p>
+<h2 class="anchor anchorWithStickyNavbar_otLt" id="why-deno">Why Deno<a href="https://gnomestack.github.io/blog/welcome#why-deno" class="hash-link" aria-label="Direct link to Why Deno" title="Direct link to Why Deno">​</a></h2>
+<p>Deno has a focus on serverless though it sometimes fees like it doesn't know
+what it wants to be as it tried to avoid package.json only to come back and
+support node packages later.</p>
+<p>Deno's potential for automation lies within the use of es6 modules, its support
+for compiling to byte code, supprt for foreign function interfaces, and its
+ability easily install scripts as cli tools.</p>
+<h2 class="anchor anchorWithStickyNavbar_otLt" id="why-net">Why .NET<a href="https://gnomestack.github.io/blog/welcome#why-net" class="hash-link" aria-label="Direct link to Why .NET" title="Direct link to Why .NET">​</a></h2>
+<p>.NET seems to attract those obsessed with patterns, particularly the repository
+and CQRS and its backing company errs on the side of collecting too much data
+in a telemetry happy frenzy.</p>
+<p>Regardless, .NET has made insane improvements to the BCL, cross platform support
+for .NET Core, source generators, and introduced native compliation.</p>
+<p>The built in support for windows and the support for other systems are
+continously improved makes it a strong candidate for building cross platform
+tools.</p>]]></content:encoded>
+            <category>gnome</category>
+            <category>stack</category>
+        </item>
+    </channel>
+</rss>
