@@ -30,7 +30,8 @@
   --ifm-background-surface-color: #0e0e0e !important;
   --ifm-background-color: #000000 !important;
   --ifm-heading-color: #a200ff !important;
-  .hero {
-    background-color: #000000 !important;
-  }
+}
+
+[data-theme='dark'] .hero {
+  background-color: #000000 !important;
 }
